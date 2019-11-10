@@ -1,0 +1,62 @@
+@charset "utf-8";
+/* CSS Document */
+div {
+  border: 2px groove #ff0004;
+
+  margin: auto;
+  padding-bottom: 10px;
+  padding-top: 8px;
+  color: #42419b;
+  width: 530px;
+}
+
+table {
+  background: #f7e2ff;
+  border: 5px groove #99ff33;
+}
+#form1 table td {
+  border: 1px solid #77bbaa;
+}
+caption {
+  font-size: 22px;
+  text-transform: uppercase;
+  padding-bottom: 3px;
+}
+#username {
+  width: 294px;
+  background-color: #f9ffc2;
+  border: 1px solid #996633;
+  color: #000000;
+  border-radius: 50px;
+  outline: none;
+  padding-left: 6px;
+}
+#pass {
+  width: 285px;
+  background-color: #f8ffd2;
+  border: 1px solid #996633;
+  color: #000000;
+  border-radius: 50px 50px 0px  0px;
+  outline: none;
+  padding-left: 15px;
+}
+#repass {
+  width: 285px;
+  background-color: #f8ffd2;
+  border: 1px solid #996633;
+  color: #000000;
+  border-radius: 0px 0px 50px 50px;
+  outline: none;
+  padding-left: 15px;
+}
+
+#sup1 {
+  color: #ff0004;
+
+}
+#sup2 {
+  color: chocolate;
+}
+#sup3 {
+  color: green;
+}
